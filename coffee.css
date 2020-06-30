@@ -1,0 +1,95 @@
+body{
+			margin: 0;
+			padding: 0;
+			background-color: #807A4E;
+			text-align: center;
+			
+		}
+		.search{
+			background-color: #000000;
+		}
+		.button{
+			background-color: #000000;
+			color: #CFCCCC;
+		}
+		#title{
+			text-align: center;
+			background: rgb(255,255,255,.05);
+			color:#CCCCC4;
+
+
+		}
+		.containers{
+			
+			border-radius: 10px 10px;
+			border-size: 2px;
+			margin-top: 4.2%;
+			width: 800px;
+			background: url(coffee8.jpg);
+			background-size: 800px;
+			
+			
+		}
+		#cont{
+			background: rgb(242, 241, 223,.6);
+			border-radius: 5px 5px;
+		}
+		p{
+			font-size: 2em;
+			font-family: 'Amatic SC', cursive;
+		}
+		h1{
+			font-family: 'Cinzel', serif;
+		}
+		#pass{
+			font-family: 'Dancing Script', cursive;
+			font-size: 1.7em;
+		}
+		h2{
+			font-family: 'Cinzel', serif;
+		}
+		img{
+			width: 500px;
+			height: 300px;
+		}
+		#loginjum{
+			margin-top: 7%;
+
+			
+			
+		}
+		.jumb{
+			margin-top: 20px;
+			background: rgba(128, 122, 78,.1);
+		}
+		.log{
+			border-radius: 5px 5px;
+			border-style: solid;
+			border-top: 0px;
+			border-bottom: 0px;
+			width: 580px;
+		}
+		.email{
+			background: rgba(250, 250, 250,.0);
+			text-align: center;
+			border-right: 0px;
+			border-left: 0px;
+
+		}
+		.pass{
+			background: rgba(250, 250, 250,.0);
+			text-align: center;
+			border-right: 0px;
+			border-left: 0px;
+		}
+		.button{
+			background: rgba(250, 250, 250,.0);
+		}
+		.footer{
+			font-family: 'Dancing Script', cursive;
+		}
+		.foot{
+			font-family: 'Dancing Script', cursive;
+			margin-top:160px;
+			
+		}
